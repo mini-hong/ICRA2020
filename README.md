@@ -15,7 +15,7 @@
   - [Autonomous Driving II](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#mob06)
   - [Autonomous Driving III](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#moc06)
   - [Autonomous Driving IV](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#mod06)
-  - [Visual Learning I](#Visual-Learning-I)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tua16)
+  - [Visual Learning I](#Visual-Learning-I)\;\;\[[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tua16)\]
   - [Visual Learning II](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tub16)
 
 ### Visual Learning I:
