@@ -12,7 +12,7 @@
   - [Visual Learning](#Visual-Learning) \[[Visual Learning I](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tua16), [Visual Learning II](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tub16)\]
 
 ### Visual-Based Navigation:
-1. Mihir Prabhudesai, Hsiao-Yu Fish Tung, Syed Ashar Javed, et al. **Embodied Language Grounding With 3D Visual Feature Representations.** [[Paper]](https://arxiv.org/pdf/1910.01210.pdf) [[Code]]() - Nuri
+1. Xinlei Pan, Tingnan Zhang, Ichter, Aleksandra Faust, Jie Tan, and Sehoon Ha. **Zero-Shot Imitation Learning from Demonstrations for Legged Robot Visual Navigation.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1305.pdf) [[Code]]() - Kyungjae
 ### Perception for Grasping and Manipulation:
 1. TBA
 ### Reinforcement Learning for Robotics:
