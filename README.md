@@ -1,8 +1,8 @@
 # ICRA2020
 [ICRA2020 paper list](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ProgramAtAGlanceMedia.html)
 
-- id: kyungjae.lee@rllab.snu.ac.kr
-- pw: kyungjae.lee@rllab.snu.ac.kr
+- id: \kyungjae.lee@rllab.snu.ac.kr
+- pw: \kyungjae.lee@rllab.snu.ac.kr
 
 ## Table of Contents
   - [Visual-Based Navigation](#Visual-Based-Navigation) \[[Visual-Based Navigation I](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#moa16), [Visual-Based Navigation II](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#mob16), [Visual-Based Navigation III](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#moc16), [Visual-Based Navigation IV](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#mod16)\]
