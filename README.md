@@ -1,7 +1,8 @@
 # ICRA2020
 [ICRA2020 paper list](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ProgramAtAGlanceMedia.html)
-id: kyungjae.lee@rllab.snu.ac.kr
-pw: kyungjae.lee@rllab.snu.ac.kr
+
+- id: kyungjae.lee@rllab.snu.ac.kr
+- pw: kyungjae.lee@rllab.snu.ac.kr
 
 ## Table of Contents
   - [Visual-Based Navigation I](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#moa16)
@@ -14,7 +15,7 @@ pw: kyungjae.lee@rllab.snu.ac.kr
   - [Autonomous Driving II](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#mob06)
   - [Autonomous Driving III](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#moc06)
   - [Autonomous Driving IV](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_1.html#mod06)
-  - [Visual Learning I](#Visual Learning I)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tua16)
+  - [Visual Learning I](#Visual-Learning-I)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tua16)
   - [Visual Learning II](#Visual Learning II)[site](https://ras.papercept.net/conferences/conferences/ICRA20/proceedings/ICRA20_ContentListMedia_2.html#tub16)
 
 ### Visual Learning I:
