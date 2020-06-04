@@ -14,7 +14,8 @@
 ### Visual-Based Navigation:
 1. Xinlei Pan, Tingnan Zhang, Ichter, Aleksandra Faust, Jie Tan, and Sehoon Ha. **Zero-Shot Imitation Learning from Demonstrations for Legged Robot Visual Navigation.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1305.pdf) [[Code]]() - Kyungjae
 ### Perception for Grasping and Manipulation:
-1. TBA
+1. Lin Yen-Chen, Andy Zeng, Shuran Song, Phillip Isola, Tsung-Yi Lin. **Learning to See before Learning to Act: Visual Pre-training for Manipulation.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/2172.pdf) [[Code]]() - Yunho
+2. Zengyi Qin, Kuan Fang, Yuke Zhu, Li Fei-Fei, Silvio Savarese. **KETO: Learning Keypoint Representations for Tool Manipulation.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/2054.pdf) [[Code]]() - Yunho
 ### Reinforcement Learning for Robotics:
 1. TBA
 ### Autonomous Driving:
