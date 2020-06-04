@@ -19,6 +19,7 @@
 ### Reinforcement Learning for Robotics:
 1. TBA
 ### Autonomous Driving:
-1. TBA
+1.
+2.
 ### Visual Learning:
 1. TBA
