@@ -19,7 +19,7 @@
 ### Reinforcement Learning for Robotics:
 1. TBA
 ### Autonomous Driving:
-1. Kapil D. Katyal , Gregory D. Hager and Chien-Ming Huang. **Intent-Aware Pedestrian Prediction for Adaptive Crowd Navigation.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/2172.pdf) [[Code]]() - Kungdo
-2. Artem Savkin, Thomas Lapotre, Kevin Strauss, Uzair Akbar and Federico Tombari. **Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition in Autonomous Driving.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/2172.pdf) [[Code]]() - Kungdo
+1. Kapil D. Katyal , Gregory D. Hager and Chien-Ming Huang. **Intent-Aware Pedestrian Prediction for Adaptive Crowd Navigation.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1312.pdf) [[Code]]() - Kungdo
+2. Artem Savkin, Thomas Lapotre, Kevin Strauss, Uzair Akbar and Federico Tombari. **Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition in Autonomous Driving.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1884.pdf) [[Code]]() - Kungdo
 ### Visual Learning:
 1. TBA
