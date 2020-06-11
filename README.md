@@ -20,7 +20,7 @@
 4. Adithyavairavan Murali, Arsalan Mousavian, Clemens Eppner, Chris Paxton, and Dieter Fox. **6-DOF Grasping for Target-Driven Object Manipulation in Clutter.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1216.pdf) [[Code]]() - Hogun
 5. Kilian Kleeberger and Marco F. Huber. **Single Shot 6D Object Pose Estimation.**  [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1567.pdf) [[Code]]() - Hogun
 ### Reinforcement Learning for Robotics:
-1. TBA
+1. Taylor A. Kessler Faulkner, Elaine Schaertl Short, Andrea L. Thomaz. **Interactive Reinforcement Learning with Inaccurate Feedback.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1581.pdf) [[Code]]() - Mini
 ### Autonomous Driving:
 1. Kapil D. Katyal , Gregory D. Hager and Chien-Ming Huang. **Intent-Aware Pedestrian Prediction for Adaptive Crowd Navigation.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1312.pdf) [[Code]]() - Kungdo
 2. Artem Savkin, Thomas Lapotre, Kevin Strauss, Uzair Akbar and Federico Tombari. **Adversarial Appearance Learning in Augmented Cityscapes for Pedestrian Recognition in Autonomous Driving.** [[Paper]](https://ras.papercept.net/proceedings/ICRA20/1884.pdf) [[Code]]() - Kungdo
